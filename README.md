@@ -8,5 +8,12 @@
       <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     
-    
+### Clone  Netflix and edit by Javascript.
+
+### Connect web with sever by Moralis.
+
+### Link Localhost with Database Moralis.
+
+
+
 ![image](https://user-images.githubusercontent.com/78186268/163672376-14c7e1ed-bdaa-47a3-9793-5963bd764f26.png)
